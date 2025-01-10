@@ -19,6 +19,7 @@ The objective of this project is to:
 3. Map Visualization: Analyzes region-wise or country-wise sales distribution.
 4. Slicers: Enable dynamic filtering of data based on region.
 5. Interactive Dashboard: Combines the above elements to provide a cohesive and easy-to-navigate interface for exploring key insights.
+6. Notes: Displays the key insights of the project.
 
 ## Key Performance Indicators (KPIs)
 
